@@ -1,0 +1,46 @@
+header {background-image: url(pictures/background.jpg); background-repeat: no-repeat; margin-bottom: 5px;background-size: 100% 100%; background-color: white; border: 6px solid black; margin-top: -5px}
+
+#sidebar{float:none; width: 100%; background-color: white}
+#wrapper{width:100%;margin: 0; padding: 0}
+
+#internal a:hover{ background:#D4D9DC;}
+#internal ul { list-style-type: none; padding:10px;text-align: center;  }
+#internal li {display: inline;  }
+#internal a {display:inline-block;padding:5px; width:180px; text-decoration: none; margin-right: 5px; background-color: black; color: white;margin-bottom: 5px }
+#sidebar h3{border: 2px solid black; border-radius: 0}
+h2 {text-align: center; border: 2px solid white; border-radius:15px; color: black; background-color: red }
+a{color: white}
+nav ul{list-style-type: none; padding: 0}
+nav{text-align:center;float:none; width: 210px; margin-top: 5px }
+nav a{ text-decoration: none; font-size: large; font-weight: bold;  }
+nav li {margin-bottom: 5px; border: 2px solid white; background-color: black ; }
+nav li:hover {background-color: #D4D9DC}
+
+nav {float:none; width: 100%}
+main {padding: 0; margin-left: 5px; width: 100%}
+
+footer {text-align: center} 
+footer a {color: black}
+span {font-weight: bold; color: red}
+#floatright {float: none; clear: right; width: 200px;margin-right: ; margin-top: 0}
+ #center { width: 30%; margin-left: 0}
+ #left { width: 140px; float: none; clear: right;}
+ 
+ body{background-color: white}
+ table{width: 70%; margin: auto; border: 1px solid black}
+ th{ background-color: black; color: white }
+td{border: 2px solid black; padding: 10px; background-color: red; color: white}
+
+.trump{ border: 2px solid white; background-color:  red; color: white}
+
+p{ text-indent: 30pt}
+ #trump { width: 400px; margin-left: 400px}
+ #trr {color: white; border: 2px solid red} 
+#yum {float: right}
+
+#question {width: 40%; border: 2px solid black; background-color: white; color: red}
+h1 {text-align: center}
+#spear {width: 100%; height: 100%}
+figcaption {font-weight:bold; font-family: italic; font-size:large; margin-bottom: 30px}
+img{display:none}
+video {display: none}
